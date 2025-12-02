@@ -1,0 +1,7 @@
+{
+  "name": "Little Learners Magic App",
+  "description": "A fully interactive, child-friendly educational web app with games, drawing, and voice interaction powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
